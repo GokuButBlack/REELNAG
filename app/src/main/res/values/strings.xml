@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReelNag</string>
+    <string name="app_tagline">Save it. Watch it. Create it. Don\'t get nagged about it.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_profile">Profile</string>
+    <string name="action_save_reel">Save a Reel</string>
+    <string name="action_create_nag">Create Nag</string>
+    <string name="action_open_original">Open original</string>
+    <string name="privacy_notice">All your saved Reels, reminders, and plans are stored locally on this device only. Nothing syncs to external servers, and resetting or clearing app storage erases it.</string>
+</resources>

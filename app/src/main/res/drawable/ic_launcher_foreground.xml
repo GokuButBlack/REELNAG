@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer rounded speech/clapper frame -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M32,28h44c4.42,0 8,3.58 8,8v30c0,4.42 -3.58,8 -8,8H50l-12,10v-10h-6c-4.42,0 -8,-3.58 -8,-8V36c0,-4.42 3.58,-8 8,-8z" />
+    <!-- Top clapper stripes -->
+    <path
+        android:fillColor="#E9D5FF"
+        android:pathData="M34,28h8l-4,8h-8zM50,28h8l-4,8h-8zM66,28h8l-4,8h-8z" />
+    <!-- Center Play Triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,42v20l17,-10z" />
+</vector>

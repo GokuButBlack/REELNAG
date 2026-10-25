@@ -1,0 +1,6 @@
+{
+  "name": "ReelNag",
+  "description": "AI-powered Reel companion that helps you save Instagram Reels, get funny personality-driven reminders to watch them, explore creative trends, and turn inspiration into original video concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
